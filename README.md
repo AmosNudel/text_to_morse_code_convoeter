@@ -1,6 +1,6 @@
 # Text to Morse Code Converter
 
-A modern, user-friendly desktop application that converts text to Morse code. Built with Python and Tkinter, this application provides a sleek interface for quick and easy text-to-Morse code conversion.
+A desktop application that converts text to Morse code. Built with Python and Tkinter.
 
 ## Features
 
